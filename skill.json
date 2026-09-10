@@ -1,0 +1,14 @@
+{
+  "name": "genpark-optimistic-concurrency-control-occ-skill",
+  "version": "1.0.0",
+  "description": "Kung-Robinson Optimistic Concurrency Control (OCC) engine with backward validation phase for read-heavy transaction processing.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "optimistic-concurrency-control",
+    "occ",
+    "backward-validation",
+    "transactions",
+    "database-isolation"
+  ]
+}
